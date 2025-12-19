@@ -1,3 +1,20 @@
+# Python
 __pycache__/
 *.pyc
+
+# Virtual environment
+venv/
+
+# Build / dist (PyInstaller)
+build/
+dist/
+*.spec
+*.exe
+
+# Keys
 keys/
+
+# OS files
+.DS_Store
+Thumbs.db
+
